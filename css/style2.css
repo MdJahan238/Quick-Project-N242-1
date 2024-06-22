@@ -1,0 +1,39 @@
+footer {
+    background-color: rgba(128, 128, 128, 0.132);
+    padding: 25px 0 400px 0;
+}
+
+.foooter-item {
+    width: 25%;
+    float: left;
+}
+
+.foooter-item h3 {
+    font-size: 25px;
+    text-align: left;
+    color: #3b506c;
+}
+
+.foooter-item ul {
+    list-style: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.foooter-item ul a {
+    text-decoration: none;
+}
+
+.foooter-item ul a li {}
+
+.foooter-item ul li {
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #3b506c;
+}
+.wrapper{
+    display: flex;
+    padding: 50px 0 0 0;
+}
